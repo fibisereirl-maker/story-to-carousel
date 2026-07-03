@@ -1,0 +1,35 @@
+{
+  "palette": "dark-blue",
+  "brand": "TU <span class=\"b\">MAR</span>CA",
+  "tag": "TU RUBRO AQUI",
+  "slides": [
+    {
+      "kicker": "Empieza con un gancho",
+      "headline": "El titular que\n[hl]detiene el scroll.[/hl]",
+      "support": "Una linea de apoyo con [b]lo importante en negrita[/b]. Clara y corta."
+    },
+    {
+      "kicker": "El problema",
+      "big": "?",
+      "headline": "Nombra el [hl]dolor[/hl]\nde tu cliente.",
+      "support": "Que se sienta identificado en la primera frase."
+    },
+    {
+      "kicker": "Como funciona",
+      "headline": "Tu solucion, en [hl]3 pasos.[/hl]",
+      "list": ["Primer paso simple", "Segundo paso", "Tercer paso"]
+    },
+    {
+      "kicker": "Por que tu",
+      "headline": "Un [hl]solo[/hl] lugar.",
+      "chips": ["Ventaja A", "Ventaja B", "Ventaja C", "Ventaja D"],
+      "support": "Cierra con la razon para elegirte, sin inventar nada."
+    },
+    {
+      "kicker": "Llamado a la accion",
+      "headline": "Da el [hl]siguiente paso.[/hl]",
+      "support": "Dile exactamente que hacer ahora.",
+      "cta": "Escribenos"
+    }
+  ]
+}
